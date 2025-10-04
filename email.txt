@@ -1,0 +1,37 @@
+Hi Jack,
+
+I hope this email finds you well.
+
+Please see below a summary of Fund Two's performance across the portfolio, with a comparison to other investors and a trend view of the MoM since the initial investment. I have also attached the aggregated view of the data for reference.
+
+Fund Two Performance
+Contributions began in Q1 2024, with investors making capital outflows throughout the year. Distributions commenced in Q1 2025.
+
+Investor 7002
+For Janette's request:
+
+Q1 2025: MoM 6,468x
+
+Q2 2025: MoM 3,984x
+
+Q3 2025: MoM 4,016x
+
+This trend is consistent with the wider institutional investor base, where multiples have stabilised between 3,000x and 7,000x. Investor 7002 is performing in line with other investors, with no indication of underperformance relative to the fund.
+
+I would be grateful if you could clarify the process for post-hoc adjustments, and also confirm the investor_id corresponding to Montagu.
+
+Attached is a CSV file with the Gold layer output as it stands in the Data Platform, which aggregates inflows, outflows, and MoM by fund, investor, and quarter. I have also attached a trend analysis to show the relative positions of investors.
+
+Going forward, this pipeline has been automated in the Data Platform. A CSV file added to the respective volume path will trigger the pipeline and update the relevant tables.
+
+Volume location:
+Final Gold layer output location:
+
+If you would like, I can also create an interactive dashboard within the Platform to allow you to explore the data directly.
+
+Please let me know if you have any other questions.
+
+Kind regards,
+Neil Chudasama
+Data Engineer
+Montagu
